@@ -1,0 +1,16 @@
+nav.navbar .container-xl {
+  padding: 0 15px;
+}
+
+a.navbar-brand:hover {
+  color: #bdc3c7;
+  i.text-light {
+    color: #bdc3c7 !important;
+  }
+}
+
+@media all and (max-width:1200px) {
+  nav.navbar .container-xl {
+    padding: 0;
+  }
+}

@@ -1,0 +1,72 @@
+<div class="row mt-4 mb-5" #target>
+  <div class="col-lg-8 col-md-7">
+    <div *ngIf="!hidenewVideo">
+      <h2>New Video</h2>
+      <form #addVideoForm="ngForm" (ngSubmit)="addVideo(addVideoForm.value)" class="well">
+        <div class="form-group">
+          <label>Title</label>
+          <div class="input-group">
+            <input type="text" class="form-control" required name="title" #title=ngModel ngModel minlength="3"
+            maxlength="80" pattern="[A-ZŠĐČĆŽ0-9][\s\S]{0,80}$">
+            <div class="input-group-append" *ngIf="title.invalid && title.touched">
+              <span class="input-group-text bg-white text-warning">
+                <i class="fa fa-exclamation-triangle is-danger"></i>
+              </span>
+            </div>
+          </div>
+          <ng-container *ngIf="title.invalid && title.touched">
+            <small class="text-warning text-sm">
+              <span *ngIf="title.errors.required"> Title is required.</span>
+              <span *ngIf="title.errors.minlength"> Title must have at least 3 letters.</span>
+              <span *ngIf="title.errors.pattern"> First letter must be in uppercase.</span>
+            </small>
+          </ng-container>
+        </div>
+        <div class="form-group">
+          <label>Url</label>
+          <div class="input-group">
+            <input type="text" class="form-control" required name="url" #url=ngModel ngModel
+              pattern="https?://www.youtube.com/+[\s\S]{10,}$">
+            <div class="input-group-append" *ngIf="url.invalid && url.touched">
+              <span class="input-group-text bg-white text-warning">
+                <i class="fa fa-exclamation-triangle is-danger"></i>
+              </span>
+            </div>
+          </div>
+          <ng-container *ngIf="url.invalid && url.touched">
+            <small class="text-warning text-sm">
+              <span *ngIf="url.errors.required"> Url is required.</span>
+              <span *ngIf="url.errors.pattern"> Enter valid url. Only videos from Youtube are allowed.</span>
+            </small>
+          </ng-container>
+        </div>
+        <div class="form-group">
+          <label>Description</label>
+          <textarea type="text" class="form-control" rows=5 name="description" ngModel></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-info btn-lg btn-block">Save</button>
+      </form>
+    </div>
+    <app-video-detail *ngIf="hidenewVideo" [selectedVideo]='selectedVideo' (updateVideoEvent)=onUpdateVideoEvent($event)
+      (deleteVideoEvent)=onDeleteVideoEvent($event)>
+    </app-video-detail>
+  </div>
+
+  <div class="col-lg-4 col-md-5">
+    <button style="margin-bottom:2px;" type="button" (click)="newVideo()" class="btn btn-info btn-lg btn-block">
+      <i class="fa fa-plus mr-3"></i>New Video
+    </button>
+    <div class="input-group mt-3 mb-3">
+      <input type="text" class="form-control" placeholder="Search for a video.." [(ngModel)]="searchedText"
+        (keyup)=searchVideo()>
+      <div class="input-group-append">
+        <span class="input-group-text bg-white text-info">
+          <i class="fa fa-search"></i>
+        </span>
+      </div>
+    </div>
+    <app-video-list [videos]="videos" [searchedText]="searchedText" [config]='config'
+    [selectedVideo]='selectedVideo' (emitVideo)=onSelectVideo($event)>
+    </app-video-list>
+  </div>
+</div>

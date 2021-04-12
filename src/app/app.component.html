@@ -1,0 +1,31 @@
+<div>
+
+  <nav class="navbar navbar-expand navbar-dark bg-dark">
+    <div class="container-xl">
+      <a class="navbar-brand d-flex" [routerLink]="['/videos']" style="align-items: baseline;">
+        <span class="input-group-text bg-transparent border-0 pr-1">
+        <i class="fa fa-play-circle text-light"></i></span>
+        VideoPlayer
+      </a>
+      <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button> -->
+    <!-- <div class="collapse navbar-collapse"> -->
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/home" routerLinkActive="active">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/videos" routerLinkActive="active">Playlist</a>
+        </li>
+        
+      </ul>
+      <!-- </div> -->
+    </div>
+  </nav>
+  <div class="container-xl mt-4">
+    <router-outlet></router-outlet>
+  </div>
+  
+</div>

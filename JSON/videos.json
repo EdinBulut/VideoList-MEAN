@@ -1,0 +1,338 @@
+[
+  {
+    "_id": "5edc225337927d53f09c29e2",
+    "title": "GraphQL Full Course",
+    "url": "https://www.youtube.com/embed/ZQL7tL2S0oQ",
+    "description": "GraphQL is the hottest technology when it comes to server side APIs for good reason."
+  },
+  {
+    "_id": "5edc225337927d53f09c29e1",
+    "title": "Express JS Crash Course",
+    "url": "https://www.youtube.com/watch?v=L72fhGm1tfE",
+    "description": "In this crash course we will dive into the Express JS framework for Node.js."
+  },
+  {
+    "_id": "60735bd10c5ced12d83aba59",
+    "title": "9 Tips for Becoming a GREAT UI Designer",
+    "url": "https://www.youtube.com/embed/_J1Le-4aXhE",
+    "description": ""
+  },
+  {
+    "_id": "6073c11bf1928d08ac51728a",
+    "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
+    "url": "https://www.youtube.com/embed/TlB_eWDSMt4",
+    "description": ""
+  },
+  {
+    "_id": "6073c1d2f1928d08ac51728b",
+    "title": "JavaScript Higher Order Functions & Arrays",
+    "url": "https://www.youtube.com/watch?v=rRgD1yVwIvE&ab_channel=TraversyMedia",
+    "description": "In this video we will look at some of the very powerful higher order functions and working with arrays. We will look at forEach, map, filter, reduce and sort."
+  },
+  {
+    "_id": "6073c27af1928d08ac51728c",
+    "title": "Learn Vue.js - Full Course for Beginners - 2019",
+    "url": "https://www.youtube.com/watch?v=4deVCNJq3qc&ab_channel=freeCodeCamp.org",
+    "description": "Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications."
+  },
+  {
+    "_id": "6073c2bbf1928d08ac51728d",
+    "title": "Node.js apps on Firebase Hosting Crash Course - Firecasts",
+    "url": "https://www.youtube.com/watch?v=LOeioOKUKI8&ab_channel=Firebase",
+    "description": "Node apps are here on Firebase Hosting. David takes you through getting set up and shares some performance and development tips along the way."
+  },
+  {
+    "_id": "6073c303f1928d08ac51728e",
+    "title": "What Is JWT and Why Should You Use JWTa",
+    "url": "https://www.youtube.com/embed/7Q17ubqLfaM",
+    "description": "JSON Web Tokens (JWT) are talked about all the time, but what exactly are they and how do they work. In this video I will explain in depth exactly what JWT is, how it works, why it is secure, and when you should use it. We will go through multiple visual demonstrations of exactly how and why JWT works. We will also compare JWT to the more common and traditional session based user authorization. By the end of this video you will have a complete understanding of JWT, how it works, and when you should use it."
+  },
+  {
+    "_id": "6073c5b3f1928d08ac51728f",
+    "title": "What is JWT authorization really about - Java Brains",
+    "url": "https://www.youtube.com/watch?v=soGRyl9ztjI&ab_channel=JavaBrains",
+    "description": "JSON Web tokens or JWT is a very popular way to do user authorization in web apps today. JWT has also become very popular in the context of micro services and some of the other developments in the way we build web applications today. In this tutorial, you’ll learn what JWT is and how exactly it’s used, specifically in the context of securing web applications. "
+  },
+  {
+    "_id": "6073ca95b3943e1fb85c6632",
+    "title": "Why I Don't Use Else When Programming",
+    "url": "https://www.youtube.com/watch?v=EumXak7TyQ0&ab_channel=WebDevSimplified",
+    "description": "This may sound crazy but I really don't use the else keyword in my programming anymore. When I do end up using else it usually leads to worse code than if I purposely avoided it. In this video I explain exactly why that is."
+  },
+  {
+    "_id": "6073cac1b3943e1fb85c6633",
+    "title": "Learn Regular Expressions In 20 Minutes",
+    "url": "https://www.youtube.com/watch?v=rhzKDrUiJVk&ab_channel=WebDevSimplified",
+    "description": "Having the ability to search through text, validate text, and replace text using an advanced set of rules is exactly what Regex is for. Unfortunately, people fail to ever truly learn Regex. In this video I will be teaching you everything you need to know about Regex. We will talk about what Regex is, what Regex flags are, how to do simple and complex matches, how to handle look aheads and look behinds, and much more. Then at the end of the video I will show you how to use Regex to validate and format a phone number in various different formats."
+  },
+  {
+    "_id": "6073caffb3943e1fb85c6634",
+    "title": "Learn useState In 15 Minutes - React Hooks Explained",
+    "url": "https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified",
+    "description": "In this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React."
+  },
+  {
+    "_id": "6073cba4b3943e1fb85c6635",
+    "title": "Learn TypeScript in 50 Minutes - Tutorial for Beginners",
+    "url": "https://www.youtube.com/watch?v=WBPrJSw7yQA&ab_channel=Codevolution",
+    "description": "TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. In this typescript tutorial for beginners, we go over the fundamental concepts like variable declarations, variable types, functions, interfaces, classes and access modifiers."
+  },
+  {
+    "_id": "6073cbe5b3943e1fb85c6636",
+    "title": "Which Is Better? SQL vs NoSQL",
+    "url": "https://www.youtube.com/watch?v=t0GlGbtMTio&ab_channel=WebDevSimplified",
+    "description": "The age old debate of SQL vs NoSQL has been going on since the day NoSQL was conceived. In this video I will detail the pros and cons of each so that when you are ready to choose a database for your next project you will know exactly which one to choose."
+  },
+  {
+    "_id": "6073cc19b3943e1fb85c6637",
+    "title": "How do NoSQL databases work? Simply Explained!",
+    "url": "https://www.youtube.com/watch?v=0buKQHokLK8&ab_channel=SimplyExplained",
+    "description": "NoSQL databases power some of the biggest sites. They're fast and super scalable but how do they work?\n"
+  },
+  {
+    "_id": "6073cc4db3943e1fb85c6638",
+    "title": "7 Database Paradigms",
+    "url": "https://www.youtube.com/watch?v=W2Z7fbCLSTw&ab_channel=Fireship",
+    "description": "Learn about seven different database paradigms and what they do best. "
+  },
+  {
+    "_id": "6073cc70b3943e1fb85c6639",
+    "title": "7 Security Risks and Hacking Stories for Web Developers",
+    "url": "https://www.youtube.com/watch?v=4YOpILi9Oxs&ab_channel=Fireship",
+    "description": "Top 7 security concepts 🛡️ and hacking stories 🎭 that every JavaScript developer should know about. Master these concepts in the Enterprise Security course: https://bit.ly/2wrUqAB​ (use FIRESHIP50 at checkout)."
+  },
+  {
+    "_id": "6073ccfeb3943e1fb85c663a",
+    "title": "What is Node js? | Why it is so Famous?",
+    "url": "https://www.youtube.com/watch?v=yEHCfRWz-EI&ab_channel=Telusko",
+    "description": "Node Js is the runtime environment for JavaScript.\nIn this video will talk about What is Node JS and Why it is so famous?\nWill touch Javascript, Express, Angular, React, MEAN,  MERN, MongoDB."
+  },
+  {
+    "_id": "6073cd2cb3943e1fb85c663b",
+    "title": "MEAN Stack Application Tutorial | Build a MEAN Application From Scratch ",
+    "url": "https://www.youtube.com/watch?v=wtIvu085uU0&t=3772s&ab_channel=edureka%21",
+    "description": "This Edureka \"MEAN Stack Application\" tutorial (Angular Tutorial Blog: https://goo.gl/vcWhkG​) will help you to create a Full Stack MEAN Application from scratch. Each section of code has been explained to provide a better understanding. You will learn about following technologies while going through this video:\n1) Angular \n2) Node.js \n3) Express\n4) MongoDB"
+  },
+  {
+    "_id": "6073cda4b3943e1fb85c663c",
+    "title": "MEAN vs MERN | MEAN Stack vs MERN Stack | Which one to Choose?",
+    "url": "https://www.youtube.com/watch?v=Yxe0EjpVP_I&ab_channel=edureka%21",
+    "description": "This Edureka video on \"MEAN vs MERN\" compares the two most popular and widely used technology stacks i.e the Mean Stack and the Mern Stack in order to help you choose the best stack for your upcoming projects."
+  },
+  {
+    "_id": "6073cdefb3943e1fb85c663d",
+    "title": "8 Must Know JavaScript Array Methods",
+    "url": "https://www.youtube.com/watch?v=R8rmfD9Y5-c&ab_channel=WebDevSimplified",
+    "description": "Working with arrays in JavaScript used to be a pain with barely any support for complex array operations. Fast forward to today, though, and there are tons of amazing JavaScript array methods available to us. In this video I will be covering the 8 most important array methods in JavaScript."
+  },
+  {
+    "_id": "6073ce23b3943e1fb85c663e",
+    "title": "Remove duplicates from array in Javascript | Algorithm Interview Question",
+    "url": "https://www.youtube.com/watch?v=dvPybpgk5Y4&ab_channel=InterviewNest",
+    "description": "How to Remove Duplicate values from an array of integers.  Four solutions, 1 ) One brute-force method using a for loop,  2)sort and remove, 3)  using JavaScript Objects and 4) Using ES6 / ES2015 Sets."
+  },
+  {
+    "_id": "6073ce7eb3943e1fb85c663f",
+    "title": "Closures in JavaScript | Inside a loop, inner function and setTimeoout",
+    "url": "https://www.youtube.com/watch?v=-xqJo5VRP4A&ab_channel=techsith",
+    "description": "JavaScript closure fundamentals.    Why do we use closures?,  how closures work inside a block scope, inner function, callback function and setTimeouts?.  How to solve some closure related issues in a for loop.    \n"
+  },
+  {
+    "_id": "6073cee6b3943e1fb85c6640",
+    "title": "Programming Tech I Like and Dislike",
+    "url": "https://www.youtube.com/watch?v=ObZwFExwzOo&ab_channel=DevEd",
+    "description": "Today we are going to be talking about my likes and dislikes with popular programming languages, frameworks and random technologies."
+  },
+  {
+    "_id": "6073cf93b3943e1fb85c6641",
+    "title": "Learn Programming FAST! My Favorite Method!",
+    "url": "https://www.youtube.com/watch?v=Mj3QejzYZ70&ab_channel=DevEd",
+    "description": "In today's episode we are going to talk about my favorite method to learn programming as fast as possible. Programming is a difficult thing to learn and we have to deal with all these crazy technologies, programming burnout and difficulty finding where to start learning."
+  },
+  {
+    "_id": "6073cfb3b3943e1fb85c6642",
+    "title": "How to Learn to Code - Best Resources, How to Choose a Project, and more!",
+    "url": "https://www.youtube.com/watch?v=WKuNWrxuJ9g&ab_channel=CSDojo",
+    "description": "What's the best way to learn programming? Watch this video to find out."
+  },
+  {
+    "_id": "6073d005b3943e1fb85c6643",
+    "title": "Russell Westbrook’s Most Violent Dunks of His Career",
+    "url": "https://www.youtube.com/watch?v=pxGs6uBLxp4&ab_channel=Chief24",
+    "description": ""
+  },
+  {
+    "_id": "6073d033b3943e1fb85c6644",
+    "title": "Michael Jordan last 3 minutes in his FINAL BULLS GAME vs Jazz (1998)",
+    "url": "https://www.youtube.com/watch?v=530z-_yjdlU&ab_channel=pennyccw",
+    "description": "Final Bulls game !\n\nMJ should have ended his career with this match."
+  },
+  {
+    "_id": "6073d0e1b3943e1fb85c6645",
+    "title": "Zlatan Ibrahimovic ● Top 30 Goals",
+    "url": "https://www.youtube.com/watch?v=ntohaMEcPL0&ab_channel=Football24Jack",
+    "description": "Zlatan Ibrahimovic is the king of insane goals, his flexibility and  devastating shot power have helped him secure his place as one of the greatest footballers of all time. In this video we take a look at 30 of his very best goals for club and country. These include PSG , Manchester United , Inter Milan and more! \n"
+  },
+  {
+    "_id": "6073d110b3943e1fb85c6646",
+    "title": "Preparations for the Best Month - Ramadan - Mufti Menk",
+    "url": "https://www.youtube.com/embed/7ICM7aHDKZ0",
+    "description": ""
+  },
+  {
+    "_id": "6073d15fb3943e1fb85c6647",
+    "title": "Firebase Cloud Function Tutorial - REST API Part 1 | Diligent Dev",
+    "url": "https://www.youtube.com/watch?v=iIVlRZIo2-c&ab_channel=DiligentDev",
+    "description": "In this Firebase Cloud Function tutorial, we're going to be covering how to create a REST API. Firebase is an awesome tool, but if you try to handle everything on the client through their SDK's you'll run into code quality, performance, and data security issues. To mitigate these issues, you can use their Firebase Cloud Functions to create an API quickly.\n"
+  },
+  {
+    "_id": "6073d185b3943e1fb85c6648",
+    "title": "Difference between cookies, session and tokens",
+    "url": "https://www.youtube.com/watch?v=44c1t_cKylo&ab_channel=ValentinDespa",
+    "description": "So what are cookies, sessions, and tokens? \n\nMost web servers use cookies to send the session-ID after you login.\nSo the server will store the session information in the database while you will only have the session id in a cookie, which is stored in the filesystem of your computer.\n\nThe session-ID is randomly generated and should be hard to guess. If you log out, the session will be deleted on the server, but also the server will instruct the browser to delete the cookie containing the session-ID.\n\nNext time you request another page, your browser will automatically send a cookie containing your sessionId, which the server will check to see if it is valid. \n\nAn alternative to this is to store information on the client and to sign it. In this scenario, anyone holding the signature can quickly check if the data was manipulated or not. One way to do this is to use JSON Web Tokens or JWT tokens.\n\nLet's now assume that you want to install an app on your phone, which can help you with your finances and keep track of your spendings. What you don't want to do is to give your username and password to this app, which was not created by your bank. This is when access tokens are being used to grant access to your data. "
+  },
+  {
+    "_id": "6073d19fb3943e1fb85c6649",
+    "title": "How does HTTPS work? What's a CA? What's a self-signed Certificate?",
+    "url": "https://www.youtube.com/watch?v=T4Df5_cojAs&ab_channel=kubucation",
+    "description": "Is HTTPS really that difficult? Do I need to know crypto theory and a lot of math to understand it? You don't! This video explains how HTTPS works in very simple terms. It will touch upon encryption and digital signatures, as well as explaining what a trusted Certificate Authority is and what a self-signed certificate is.\n"
+  },
+  {
+    "_id": "6073d1d2b3943e1fb85c664a",
+    "title": "147 Classics: Ronnie O'Sullivan | Snooker | Eurosport",
+    "url": "https://www.youtube.com/watch?v=Zqod1NZDJyo&ab_channel=Eurosport",
+    "description": "Remembering Ronnie O'Sullivan's 147 against Allan Taylor at the English Open 2018."
+  },
+  {
+    "_id": "6073d20ab3943e1fb85c664b",
+    "title": "Most Satisfying Machines and Ingenious Tools ▶30",
+    "url": "https://www.youtube.com/watch?v=F_VdC96i2O8&ab_channel=QuantumTechHD",
+    "description": "There’s something seriously satisfying about watching work and workers in action. Here at Quantum Tech HD, we know how all these illustrious machines work, but what makes them special.  Machinery is getting more advanced daily, and so do processes. So let’s explore another exciting episode of Satisfying machines. \n"
+  },
+  {
+    "_id": "6073d239b3943e1fb85c664c",
+    "title": "100 INTEGRALS (World Record?)",
+    "url": "https://www.youtube.com/watch?v=dgm4-3-Iv3s&ab_channel=blackpenredpen",
+    "description": "100 integrals. Great for calculus 1, calculus 2 and AP Calc students. \n"
+  },
+  {
+    "_id": "6073d257b3943e1fb85c664d",
+    "title": "Why is 0! = 1?",
+    "url": "https://www.youtube.com/watch?v=X32dce7_D48&ab_channel=EddieWoo",
+    "description": ""
+  },
+  {
+    "_id": "6073d29cb3943e1fb85c664e",
+    "title": "Making chainsaw robot, carving logs",
+    "url": "https://www.youtube.com/watch?v=ix68oRfI5Gw&ab_channel=StuffMadeHere",
+    "description": ""
+  },
+  {
+    "_id": "6073d2beb3943e1fb85c664f",
+    "title": "How I made steel toe crocs with wood",
+    "url": "https://www.youtube.com/watch?v=IcjgrB9vTec&ab_channel=StuffMadeHere",
+    "description": "I want steel toed crocs but I can't buy them. That's a crime against humanity that I want to rectify. In this video I show how I developed wooden tooling that with a bit of refinement could be used to mass produce steel toe crocs. \n"
+  },
+  {
+    "_id": "6073d2e8b3943e1fb85c6650",
+    "title": "Rusted Railway Track Forged into a Beautiful KATANA",
+    "url": "https://www.youtube.com/watch?v=G6NP10PNwrw&ab_channel=RandomHands",
+    "description": "Guys, Sadly i have to tell you that last two weeks was so tough for me and my team, as most of you know that a hacker hijacked my channel a couple of days ago and that was a big concussion for us but I am happy that you guys keep supporting in that time period. And now i have recovered myself from this incident and Alhamdulilah our channel is back again on its platform.This is the reason, why I am uploading my video after this long time period. This time i need some favour from you guys, share this video as much as you can on all other social media platforms so everyone would come to know that it is not easy to break us down. And with the help of Allah Almighty and support from you guys will make this youtube family more stronger than it was before. When the channel got hacked, I did not stop working i did not lose my hope, spirit and strength, this was all possible because of the love you guys always gave me. And at the end i want you to follow me on the Instagram so everyone will beware of any problem happens in future very closely.\n"
+  },
+  {
+    "_id": "6073d308b3943e1fb85c6651",
+    "title": "Antique Hand Cranked Hammer Drill - Restoration",
+    "url": "https://www.youtube.com/watch?v=zTyZgOkWs4o&ab_channel=mymechanics",
+    "description": "It was in spring this year when I picked up this beaten up antique hand cranked hammer drill. My friend has found it on the steel waste together with the german „Weltrekord“ ratchet screwdriver. The condition of the drill was super bad. It was very corroded, had a lot of missing screws, the handle was in very bad condition and the crank was bent so much you couldn't even make a full turn. That's all said, it was the perfect item for a new restoration video.\n"
+  },
+  {
+    "_id": "6073d3aab3943e1fb85c6652",
+    "title": "Amazing Exciting Factory Production Process #6! Most Satisfying Factory Machines",
+    "url": "https://www.youtube.com/watch?v=bh5IlhTFrXI&ab_channel=D.Machinery",
+    "description": ""
+  },
+  {
+    "_id": "6073d3d4b3943e1fb85c6653",
+    "title": "Nintendo Console Restoration - Yellowed Plastic Retrobright",
+    "url": "https://www.youtube.com/watch?v=VqGKIQAn0Cc&ab_channel=TysyTubeRestoration",
+    "description": "How to Restore and how to retrobright old plastic on Retro Console Nintendo\nI show you how to remove the yellowing from vintage plastics with Retrobright method.\nThis console was bought from Ebay in working condition but is not working."
+  },
+  {
+    "_id": "6073d3f9b3943e1fb85c6654",
+    "title": "Old Soviet motorcycle full Restoration",
+    "url": "https://www.youtube.com/watch?v=y8HEZ-x4-_w&ab_channel=Greatidea",
+    "description": "This is the Ural M63, 1969 year, it stood motionless for many years."
+  },
+  {
+    "_id": "6073d42cb3943e1fb85c6655",
+    "title": "Amazing Slingshot two Functions Fire | Woodworking Technology | Wooden DIY",
+    "url": "https://www.youtube.com/watch?v=qMmNoy0ilZs&ab_channel=WoodenDIY",
+    "description": "In this video, I will show you How to make Survival Slingshot two Functions Fire.\n"
+  },
+  {
+    "_id": "6073d448b3943e1fb85c6656",
+    "title": "Diy automatic slingshot! Now you don't need to call 991!",
+    "url": "https://www.youtube.com/watch?v=tjaZIALDnKg&ab_channel=%D0%A1urlybro",
+    "description": "Made an amazing automatic weapon! With this you don't need to call 991 anymore !!!\n"
+  },
+  {
+    "_id": "6073d46fb3943e1fb85c6657",
+    "title": "How to build Chinese Ancient Recurve Bow and Arrow | The Way of Archery in China",
+    "url": "https://www.youtube.com/watch?v=-NfeBgtVFrY&ab_channel=%E5%B0%8F%E8%8A%8A%E6%9E%ABXiaoQianFeng",
+    "description": ""
+  },
+  {
+    "_id": "6073d63b6aad1c3a908a14d3",
+    "title": "When a physics teacher knows his stuff !!",
+    "url": "https://www.youtube.com/watch?v=77ZF50ve6rs&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.",
+    "description": ""
+  },
+  {
+    "_id": "6073d66c6aad1c3a908a14d4",
+    "title": "Woodturning - A Coffee Mug",
+    "url": "https://www.youtube.com/watch?v=0EDF4g7xpEM&ab_channel=MattJordan",
+    "description": "This has to be my most requested project both on and off YT, so here it is...a coffee mug, with a handle.\n"
+  },
+  {
+    "_id": "6073d6916aad1c3a908a14d5",
+    "title": "Making aerogel",
+    "url": "https://www.youtube.com/watch?v=Y0HfmYBlF8g&ab_channel=NileRed",
+    "description": "It has taken many months, but I was finally able to make a decent aerogel! "
+  },
+  {
+    "_id": "6073d6b66aad1c3a908a14d6",
+    "title": "Making the world's most expensive carbonated water!",
+    "url": "https://www.youtube.com/watch?v=n0wvDwSnzcw&ab_channel=NileRed",
+    "description": "For this video, I'll be making the world's first real diamond water.\nTo do this, I'll be burning diamonds, which are nearly pure carbon (and definitely not \"forever\"), to make diamond CO2 gas and then using that CO2 to make extremely expensive carbonate water."
+  },
+  {
+    "_id": "6073d7086aad1c3a908a14d7",
+    "title": "10 Amazing Practical Jokes",
+    "url": "https://www.youtube.com/watch?v=psvkyf3PzjE&ab_channel=Quirkology",
+    "description": ""
+  },
+  {
+    "_id": "6073d7766aad1c3a908a14d8",
+    "title": "Prove 3 = 0. Can You Spot The Mistake?",
+    "url": "https://www.youtube.com/watch?v=SGUZ-8u1OxM&ab_channel=MindYourDecisions",
+    "description": ""
+  },
+  {
+    "_id": "6073d7b26aad1c3a908a14d9",
+    "title": "Learn Angular Material - Full Tutorial",
+    "url": "https://www.youtube.com/watch?v=jUfEn032IL8&ab_channel=freeCodeCamp.org",
+    "description": "Learn how to use Angular Material in this full tutorial course for beginners. Angular Material is a UI component library for Angular JS developers. Angular Material design components help in constructing attractive, consistent, and functional web pages and web applications while adhering to modern web design principles like browser portability, device independence, and graceful degradation.\n"
+  },
+  {
+    "_id": "6073d7d66aad1c3a908a14da",
+    "title": "Angular interview questions and answers",
+    "url": "https://www.youtube.com/watch?v=-jeoyDJDsSM&ab_channel=Questpond",
+    "description": "Full Angular Interview Questions & answers videos @ 499 INR from https://tinyurl.com/angularinterview"
+  },
+  {
+    "_id": "6073d8086aad1c3a908a14db",
+    "title": "Learn DOM Manipulation In 18 Minutes",
+    "url": "https://www.youtube.com/watch?v=y17RuWkWdn8&ab_channel=WebDevSimplified",
+    "description": ""
+  }
+]
