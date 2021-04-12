@@ -20,7 +20,7 @@ router.get('/videos', (req, res) => {
   Video.find()
     .then(videos => {
       res.json(videos);
-      console.log(videos);
+      // console.log(videos);
 
       // videos.forEach(myFunction)
       // function myFunction(video, i, videosInJSONFormat) {

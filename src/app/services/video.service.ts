@@ -7,8 +7,8 @@ import { Video } from '../models/video';
   providedIn: 'root'
 })
 export class VideoService {
-  // private videoUrl = '/api/videos';
-  private videoUrl = 'http://localhost:3000/api/videos';
+  private videoUrl = '/api/videos';
+  // private videoUrl = 'http://localhost:3000/api/videos';
   httpOptions = { headers: new HttpHeaders({'Content-Type': 'application/json'}) };
 
   constructor(private http: HttpClient) { }
