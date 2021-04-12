@@ -37,7 +37,8 @@ App will show in front of your eyes if you have done these 5 steps correctly.
 MEAN stack App where you can:
  - add new video, 
  - edit or delete existing video,
- - search for a specific video
+ - search for a specific video,
+ - watch selected video
 
 When you made some of the above changes you'll get exported json file with all videos and with every new changes, json file will be updated.
 Json file will be saved in JSON folder as videos.json.   
