@@ -13,17 +13,17 @@ run `git clone https://github.com/EdinBulut/VideoList-MEAN.git`
 2. In SELECTED_FOLDER you will get project folder VideoList-MEAN. Navigate to project folder and
 run `npm install` to get node_modules folder
 
-`(.../SELECTED_FOLDER/VideoList-MEAN> npm install)`
+`.../SELECTED_FOLDER/VideoList-MEAN> npm install`
 
 
 3. Run `ng build --prod` to get dist folder
 
-`(.../SELECTED_FOLDER/VideoList-MEAN> ng build --prod`
+`.../SELECTED_FOLDER/VideoList-MEAN> ng build --prod`
 
 
 4. Run `node server` to connect with database and to start running server
 
-`(.../SELECTED_FOLDER/VideoList-MEAN> node server`
+`.../SELECTED_FOLDER/VideoList-MEAN> node server`
 
 
 5. Server is going to listen on localhost:3000 so you need to navigate in your browser to `http://localhost:3000/` and that is it.
