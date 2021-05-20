@@ -19,6 +19,8 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'dist/Videos/index.html'));
 })
 
+app.set('port', PORT);
+
 app.listen(PORT, () => {
   console.log(`Server running on localhost ${PORT}`);
 })
