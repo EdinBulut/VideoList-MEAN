@@ -40,7 +40,7 @@ MEAN stack App where you can:
  - search for a specific video,
  - watch selected video
 
-When you made some of the above changes you'll get exported json file with all videos and with every new changes, json file will be updated.
+When you made some of the above changes you'll get exported json file with all videos, and with every new changes, json file will be updated.
 Json file will be saved in JSON folder as videos.json.   
 (`.../VideoList-MEAN/JSON/videos.json`)
 
