@@ -6,7 +6,7 @@ const api = require('./server/routes/api');
 const PORT = process.env.PORT || 3000;
 const app = express();
 
-app.use(express.static(path.join(__dirname, 'dist/Videos')));
+app.use(express.static(path.join(__dirname, 'dist/videos')));
 
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
@@ -16,7 +16,7 @@ app.use(cors());
 app.use('/api', api);
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'dist/Videos/index.html'));
+  res.sendFile(path.join(__dirname, 'dist/videos/index.html'));
 })
 
 app.set('port', PORT);
